@@ -1,0 +1,1 @@
+pyuic5 inter.ui -o fon.py -x

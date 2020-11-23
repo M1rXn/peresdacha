@@ -1,0 +1,1 @@
+pyuic5 learn1.ui -o learn5.py
